@@ -39,8 +39,8 @@ This is an automation tool for interacting with the Hanafuda platform on the Bas
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Galkurta/Hanafuda-BOT.git
-cd Hanafuda-BOT
+git clone https://github.com/Choki625/Hanafuda.git
+cd Hanafuda
 ```
 
 2. Install dependencies:
